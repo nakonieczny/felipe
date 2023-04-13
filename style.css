@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    background-color: escolha uma cornflowerblue;
+    color: escolha uma cornsilk;
+    font-size: 10px;
+    display: flex;
+    justify-content: baseline;
+}
+.cabecalho-imagem{
+    width: 10%;
+    height: 10%;
